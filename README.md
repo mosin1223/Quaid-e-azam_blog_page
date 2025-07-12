@@ -11,7 +11,7 @@ This is a simple **single-page tribute website** dedicated to **Muhammad Ali Jin
 1. **Clone or Download** this repository to your local machine**.
 
    ```bash
-   git clone 
+   git clone https://github.com/mosin1223/Quaid-e-azam_blog_page
 
 2. **Open the index.html file in any browser to view the tribute website**.
 
