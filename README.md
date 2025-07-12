@@ -18,7 +18,7 @@ This is a simple **single-page tribute website** dedicated to **Muhammad Ali Jin
 ---
 
 ## Screenshot
-- ![Quaid-e-Azam Tribute Website]()
+- ![Quaid-e-Azam Tribute Website](https://github.com/mosin1223/Quaid-e-azam_blog_page/blob/main/tribute_website.png)
 
 
 ---
